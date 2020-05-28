@@ -16,7 +16,7 @@ function basicTeenager(age) {
   console.log(You are not a teenager);
   }
 }
-
+basicTeenager(15);
 
 
 
