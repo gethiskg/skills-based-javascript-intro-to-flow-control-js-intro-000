@@ -12,7 +12,7 @@ function basicTeenager(age) {
     return `You are a teenager!`;
   }
   else {
-  console.log(You are not a teenager);
+  console.log('You are not a teenager');
   }
 }
 basicTeenager(15);
